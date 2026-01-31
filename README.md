@@ -1,2 +1,3 @@
-# charlas
-Codigo derivado de los post y charlas de geologiaymapas
+# Requisitos
+
+pip install -r requirements.txt
